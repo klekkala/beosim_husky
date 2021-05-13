@@ -48,39 +48,40 @@ In next steps, one potential solution is to implement ROS MoveIt packages to mak
 
 
 ## References:
-Gazebo Models: 
+1. Gazebo Models: 
 https://github.com/osrf/gazebo_models
 
-Husky Official Pages: 
+2. Husky Official Pages: 
 http://wiki.ros.org/Robots/Husky
 
-Husky with ur5 integration: 
+3. Husky with ur5 integration: 
 http://wiki.ros.org/husky_ur5_moveit_config/Tutorials/Husky%20UR5%20Mobile%20Manipulation%20Demo
 
-Package Initialization:
+4. Package Initialization:
 http://wiki.ros.org/catkin/Tutorials/create_a_workspace
 
-Universal Robot: 
+5. Universal Robot: 
 https://github.com/ros-industrial/universal_robot/tree/melodic-devel-staging
 
 http://wiki.ros.org/action/show/universal_robots?action=show&redirect=universal_robot
 
 https://answers.ros.org/question/318564/spawning-husky-robot-with-ur5/
 
-Maze and Husky repos:
+6. Maze and Husky repos:
 https://github.com/wangcongrobot/dual_ur5_husky_mujoco
 
 https://github.com/erlerobot/gym-gazebo
 
-Difficulties to integrate husky and universal robot:
+7. Difficulties to integrate husky and universal robot:
 https://docs.google.com/document/d/1n-8UeU3AcyXO5rm9a9HHvpFZmVjUdpsoUWWxoUwSzw0/edit
-Gym Gazebo:
+
+8. Gym Gazebo:
 https://github.com/erlerobot/gym-gazebo
 
-Gazebo Installation and Tutorials:
+9. Gazebo Installation and Tutorials:
 http://gazebosim.org/tutorials?tut=install_ubuntu&cat=install
 
-ROS installation and Tutorials:
+10. ROS installation and Tutorials:
 http://wiki.ros.org/melodic/Installation/Ubuntu
 
 
