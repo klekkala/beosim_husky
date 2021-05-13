@@ -25,7 +25,6 @@ The Husky model is a pre-built gazebo model. It can be loaded directly in the ga
 
 The following world is loaded by ros launch file. it can be downloaded and compiled from this link.
 
-
 ### Stage 2:  Implement Elevator Models
 Elevator is also a pre-built model in the gazebo. In this stage, a maze and the husky robot are integrated into this world. Husky is designed to interact with the maze and the elevator. 
 Husky is controlled by scripts to move into the elevator, and the elevator can move it from the first floor to the second one.
